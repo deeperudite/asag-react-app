@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8aaab0b74c1706c2e969d3f40fb3355c",
+    "revision": "d46d8f6e204a5abfcdd7cf3ca5370b15",
     "url": "/asag-react-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asag-react-app/static/js/2.146ffa4b.chunk.js"
   },
   {
-    "revision": "49703a48174bc5aa8372",
-    "url": "/asag-react-app/static/js/main.1adb5b3b.chunk.js"
+    "revision": "0ea3177589417efd11ab",
+    "url": "/asag-react-app/static/js/main.60513b1b.chunk.js"
   },
   {
     "revision": "f2cde99bf2c0177bcb28",
