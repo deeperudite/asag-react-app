@@ -1,6 +1,6 @@
 {
   "short_name": "ASAG",
-  "name": "Create React App Sample",
+  "name": "Automatic Short Answer Grading",
   "icons": [
   ],
   "start_url": ".",

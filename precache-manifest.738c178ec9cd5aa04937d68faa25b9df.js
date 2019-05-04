@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03f1e63cdc4e1b9a09db08c4fd1b9b6b",
+    "revision": "a69c9c5565b8448d1e22af11c9e60a20",
     "url": "/asag-react-app/index.html"
   },
   {
