@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/asag-react-app/static/css/main.795991f2.chunk.css",
-    "main.js": "/asag-react-app/static/js/main.c7a5c989.chunk.js",
-    "main.js.map": "/asag-react-app/static/js/main.c7a5c989.chunk.js.map",
+    "main.js": "/asag-react-app/static/js/main.1adb5b3b.chunk.js",
+    "main.js.map": "/asag-react-app/static/js/main.1adb5b3b.chunk.js.map",
     "runtime~main.js": "/asag-react-app/static/js/runtime~main.46576a56.js",
     "runtime~main.js.map": "/asag-react-app/static/js/runtime~main.46576a56.js.map",
-    "static/js/2.0c377e77.chunk.js": "/asag-react-app/static/js/2.0c377e77.chunk.js",
-    "static/js/2.0c377e77.chunk.js.map": "/asag-react-app/static/js/2.0c377e77.chunk.js.map",
+    "static/js/2.146ffa4b.chunk.js": "/asag-react-app/static/js/2.146ffa4b.chunk.js",
+    "static/js/2.146ffa4b.chunk.js.map": "/asag-react-app/static/js/2.146ffa4b.chunk.js.map",
     "index.html": "/asag-react-app/index.html",
-    "precache-manifest.738c178ec9cd5aa04937d68faa25b9df.js": "/asag-react-app/precache-manifest.738c178ec9cd5aa04937d68faa25b9df.js",
-    "service-worker.js": "/asag-react-app/service-worker.js",
-    "static/css/main.795991f2.chunk.css.map": "/asag-react-app/static/css/main.795991f2.chunk.css.map"
+    "precache-manifest.a23e1f03d0cd267c3b027f442235ddf8.js": "/asag-react-app/precache-manifest.a23e1f03d0cd267c3b027f442235ddf8.js",
+    "service-worker.js": "/asag-react-app/service-worker.js"
   }
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/asag-react-app/precache-manifest.738c178ec9cd5aa04937d68faa25b9df.js"
+  "/asag-react-app/precache-manifest.a23e1f03d0cd267c3b027f442235ddf8.js"
 );
 
 self.addEventListener('message', (event) => {
