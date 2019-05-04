@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asag-react-app/static/css/main.795991f2.chunk.css",
+    "main.js": "/asag-react-app/static/js/main.c7a5c989.chunk.js",
+    "main.js.map": "/asag-react-app/static/js/main.c7a5c989.chunk.js.map",
+    "runtime~main.js": "/asag-react-app/static/js/runtime~main.46576a56.js",
+    "runtime~main.js.map": "/asag-react-app/static/js/runtime~main.46576a56.js.map",
+    "static/js/2.0c377e77.chunk.js": "/asag-react-app/static/js/2.0c377e77.chunk.js",
+    "static/js/2.0c377e77.chunk.js.map": "/asag-react-app/static/js/2.0c377e77.chunk.js.map",
+    "index.html": "/asag-react-app/index.html",
+    "precache-manifest.d1acc83080de3349c2b6ad788e2b80b1.js": "/asag-react-app/precache-manifest.d1acc83080de3349c2b6ad788e2b80b1.js",
+    "service-worker.js": "/asag-react-app/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/asag-react-app/static/css/main.795991f2.chunk.css.map"
+  }
+}
